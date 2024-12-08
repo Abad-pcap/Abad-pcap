@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Adrian  
+### 🚀 Tecnólogo apasionado | 🔐 Explorador de ciberseguridad | 🤖 Amante de la Tecnologia  
 
-<!--
-**Abad-pcap/Abad-pcap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+👨‍💻 Vivo para experimentar y crear. Desde proyectos que brillan (literalmente, gracias a LEDs RGB 💡) hasta sistemas que protegen en tiempo real, la tecnología es mi patio de juegos.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🎯 **Ahora:**   
+🌱 **Aprendiendo:** Pentesting y redes neuronales.  
+🎮 **Diversión:** Mezclando café ☕ con código... y videojuegos cuando queda tiempo.  
+
+📬 ¿Charlamos?  
+- [LinkedIn](https://www.linkedin.com/in/adrian-abad-826a9b1a9/)  
+<!-- - [Proyectos destacados](https://github.com/tu-usuario?tab=repositories)  
 -->
+**"Explora, crea, repite. 🚀"**
