@@ -1,12 +1,12 @@
 # ¡Hola! 👋 Soy Adrian  
-### 🚀 Tecnólogo apasionado | 🔐 Explorador de ciberseguridad | 🤖 Amante de la Tecnologia  
+### 🔐 Explorador de ciberseguridad | 🤖 Amante de la Tecnologia  
 
 ---
 
 👨‍💻 Vivo para experimentar y crear. Desde proyectos que brillan (literalmente, gracias a LEDs RGB 💡) hasta sistemas que protegen en tiempo real, la tecnología es mi patio de juegos.  
 
-🎯 **Ahora:**   
-🌱 **Aprendiendo:** Pentesting y redes neuronales.  
+🎯 **Ahora:**  Explorando nuevos campos. 
+🌱 **Aprendiendo:** Arduino, Pentesting y Full-Stack.  
 🎮 **Diversión:** Mezclando café ☕ con código... y videojuegos cuando queda tiempo.  
 
 📬 ¿Charlamos?  
